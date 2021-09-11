@@ -1,0 +1,17 @@
+{
+  "name": "John Doe",
+  "phone": "9988776655",
+  "age": 25,
+  "covaxin": false,
+  "cowin": {
+    "search": "https://cdn-api.co-vin.in/api/v2/appointment/sessions/calendarByDistrict?district_id=395&date=03-05-2021",
+    "reschedule": "https://cdn-api.co-vin.in/api/v2/appointment/reschedule",
+    "schedule": "https://cdn-api.co-vin.in/api/v2/appointment/schedule"
+  },
+  "auth": "Bearer eyJ23r23r23rhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiI3Njg2NmQwOS1jNTY4LTQ5YzktOTMzZi03M2QyMWEwMmFhZDUiLCJ1c2VyX2lkIjoiNzY4NjZkMDktYzU2OC00OWM5LTkzM2YtNzNkMjFhMDJhYWQ1IiwidXNlcl90eXBlIjoiQkVORUZJQ0lBUlkiLCJtb2JpbGVfbnVtYmVyIjo5OTc0NzY4Mzg4LCJiZW5lZmljaWFyeV9yZWZlcmVuY2VfaWQiOjUyNzU0NDcyMTQ4NzkwLCJ1YSI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MS4wLjQ0NjkuMCBTYWZhcmkvNTM3LjM2IiwiZGF0ZV9tb2RpZmllZCI6IjIwMjEtMDUtMDNUMDU6MjM6MjMuMjA3WiIsImlhdCI6MTYyMDAxOTQwMywiZXhwIjoxNjIwMDIwMzAzfQ.dnrcwtna_x8jz81DQKSizEjs3rBwhn1ZM73Ol5p03ug",
+  "webhook": "",
+  "verbose": true,
+  "sleep": 5000,
+  "appointment_id": "",
+  "beneficiary_reference_id": ""
+}
